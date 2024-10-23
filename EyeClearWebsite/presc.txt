@@ -1,0 +1,2 @@
+Prescription ID: 101, First Name: chandan, Last Name: kumar, Address: jaipur rajsthan india, Sphere: 15.0, Cylinder: 3.0, Axis: 4, Examination Date: Wed Oct 23 18:16:26 IST 2024, Optometrist: java program
+Prescription ID: 101, First Name: chandan, Last Name: kuamr, Address: india jaipur rajsthan, Sphere: 14.0, Cylinder: 3.0, Axis: 3, Examination Date: Wed Oct 23 20:16:56 IST 2024, Optometrist: abcdefgjij
